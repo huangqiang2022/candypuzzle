@@ -1,3 +1,4 @@
+facebook.com, 639252577857946, DIRECT, c3e20eee3f780d68
 google.com, pub-4754753098469677, DIRECT, f08c47fec0942fa0
 applovin.com, 396db4e8302d3ee265b1eb945c4e6f52, DIRECT
 adcolony.com, 5d8cbf6671c93a42, RESELLER, 1ad675c9de6b5176
@@ -7,5 +8,4 @@ pubmatic.com, 159509, RESELLER, 5d62403b186f2ace
 pubnative.net, 1007170, RESELLER, d641df8625486a7b
 verve.com, 15290, RESELLER, 0c8f5958fc2d6270
 indexexchange.com, 192829, RESELLER, 50b1c356f2c5c8fc
-facebook.com, 639252577857946, DIRECT, c3e20eee3f780d68
 facebook.com, 639252577857946, DIRECT, c3e20eee3f780d68
